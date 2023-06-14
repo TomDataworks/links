@@ -179,7 +179,7 @@ links:
   - Name: FurAffinity
     URL: https://furaffinity.net/user
     Username: tomthedwaggy
-    Icon-Class: fab fa-paint-brush
+    Icon-Class: fas fa-paint-brush
     Color: '#05AA22'
     Text_Color: '#ffffff'
 
@@ -187,7 +187,7 @@ links:
   - Name: Weasyl
     URL: https://www.weasyl.com
     Username: ~tomdwaggy
-    Icon-Class: fab fa-paint-brush
+    Icon-Class: fas fa-paint-brush
     Color: '#50CC46'
     Text_Color: '#ffffff'
 
