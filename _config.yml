@@ -29,12 +29,12 @@ links:
 #   Color: '#DD2A7B'
 #   Icon-Class: fab fa-instagram
 
-#   # TWITTER
-# - Name: Twitter
-#   URL: https://twitter.com
-#   Username:
-#   Color: '#1DA1F2'
-#   Icon-Class: fab fa-twitter
+    # TWITTER
+  - Name: Twitter
+    URL: https://twitter.com
+    Username: blackblobdraggy
+    Color: '#1DA1F2'
+    Icon-Class: fab fa-twitter
 
 #   # Cal.com
 # - Name: Cal.com
