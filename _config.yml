@@ -185,8 +185,8 @@ links:
 
     # Weasyl
   - Name: Weasyl
-    URL: https://www.weasyl.com/~
-    Username: tomdwaggy
+    URL: https://www.weasyl.com
+    Username: ~tomdwaggy
     Icon-Class: fab fa-paint-brush
     Color: '#50CC46'
     Text_Color: '#ffffff'
