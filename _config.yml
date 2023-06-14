@@ -175,6 +175,22 @@ links:
     Color: '#05CC46'
     Text_Color: '#ffffff'
 
+    # FurAffinity
+  - Name: FurAffinity
+    URL: https://furaffinity.net/user
+    Username: tomthedwaggy
+    Icon-Class: fab fa-paintbrush
+    Color: '#05AA22'
+    Text_Color: '#ffffff'
+
+    # Weasyl
+  - Name: Weasyl
+    URL: https://www.weasyl.com/~
+    Username: tomdwaggy
+    Icon-Class: fab fa-paintbrush
+    Color: '#50CC46'
+    Text_Color: '#ffffff'
+
     # FIGMA
   - Name: Figma
     URL: https://www.figma.com
